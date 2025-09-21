@@ -2,13 +2,14 @@
 
  1️⃣ Clone Repository
 git clone https://github.com/ChauhanVi/NLP-chatbot.git
+
 cd NLP-chatbot
 
 2️⃣ Create Virtual Environment (Recommended)
 
 python -m venv .venv
+
  Activate venv
- 
 .\.venv\Scripts\activate     # Windows
 
 source .venv/bin/activate  # Linux/Mac
