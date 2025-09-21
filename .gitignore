@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+
+# Python cache
+__pycache__/
+
+# Model artifacts
+chatbot_model.h5
+classes.pkl
+words.pkl
+
+
