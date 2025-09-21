@@ -32,4 +32,3 @@ Run the Chatbot (Console)
 
 python chat.py
 
-Opens a local web server at: http://127.0.0.1:5000
