@@ -10,6 +10,7 @@ cd NLP-chatbot
 python -m venv .venv
 
  Activate venv
+ 
 .\.venv\Scripts\activate     # Windows
 
 source .venv/bin/activate  # Linux/Mac
