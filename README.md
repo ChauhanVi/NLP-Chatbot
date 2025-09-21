@@ -1,17 +1,19 @@
 # ⚙️ Setup Instructions
 
-# 1️⃣ Clone Repository
+ 1️⃣ Clone Repository
 git clone https://github.com/ChauhanVi/NLP-chatbot.git
 cd NLP-chatbot
 
-# 2️⃣ Create Virtual Environment (Recommended)
+2️⃣ Create Virtual Environment (Recommended)
 
 python -m venv .venv
  Activate venv
+ 
 .\.venv\Scripts\activate     # Windows
+
 source .venv/bin/activate  # Linux/Mac
 
-# 3️⃣ Train the Model
+ 3️⃣ Train the Model
 python train_chatbot.py
 
 This generates:
